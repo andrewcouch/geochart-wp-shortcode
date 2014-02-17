@@ -1,10 +1,11 @@
-geochart-wp-shortcode
-=====================
+=== Geochart Shortcode ===
+Tags: geochart, shortcode, google, map
+Tested up to: 3.8.1
+License: GPL2
 
-Integrates Google\'s Geochart Region visualization as a configurable shortcode.
+Integrates Google\'s Geochart Region visualization as a configurable shortcode. 
 
-
-==Description==
+== Description ==
 Integrates the Geochart Region visualization from Google as a configurable shortcode for WordPress. More info on the visualization here: https://developers.google.com/chart/interactive/docs/gallery/geochart
 Having the integration as a shortcode allows a user to place a shortcode into a page without additional coding. Regionlist, height, width, color and secondary label are configurable on the shortcode, so you can use it in multiple places on a blog easily.
 
