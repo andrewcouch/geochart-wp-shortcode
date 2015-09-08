@@ -62,7 +62,7 @@ function ggeo_shortcode_func( $atts ) {
 function to_array($v)
 {
   $newarray = explode(':', $v);
-  $newarray[1] = intval($newarray[1])
+  $newarray[1] = intval($newarray[1]);
   
   return $newarray;
 }
